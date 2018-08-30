@@ -9,5 +9,9 @@
 	gpgsign = true
 [diff]
   colorMoved = zebra
+[user]
+	email = p.andermatt@me.com
+	signingkey = <KEY>
+	name = Pascal Andermatt
 [gpg]
 	program = /usr/local/bin/gpg
